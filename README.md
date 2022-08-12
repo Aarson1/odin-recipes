@@ -1,0 +1,1 @@
+The current project is about creating a simple website of dishes. While doing so I learned several element and tags necessary to complete the task such as headline, paragraph, and so on. I also had to put pictures of the dishes, and resize them so that it wouldn't look too big compared to the text.
